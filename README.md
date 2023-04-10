@@ -1,2 +1,2 @@
-# Oasis
-Oasis internship Level 1 Task 1
+# OIBGRIP
+I developed this landing page using HTML and CSS. 
